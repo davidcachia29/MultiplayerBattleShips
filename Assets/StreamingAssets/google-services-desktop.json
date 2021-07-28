@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551466109584",
+    "project_id": "dissertation-79043",
+    "storage_bucket": "dissertation-79043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551466109584:android:3adbdd09eec45e9c336615",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.com.unity.template.mobile2D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551466109584-9vlk65e6frlc14s0res6q8d6rkrd7mkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4Mz9WbnJLSYcAPnzt51MxJIm672QpCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551466109584-9vlk65e6frlc14s0res6q8d6rkrd7mkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
